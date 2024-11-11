@@ -49,8 +49,4 @@ Your really cool plugin - Go make a plugin, do a pull-request and I'll add it th
 
 ## Related
 
-Huge thanks to <a href="https://twitter.com/transitive_bs">Travis Fischer</a> for creating [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)
-
-## License
-
-MIT © Gabe Ragland (follow me on <a href="https://twitter.com/gabe_ragland">Twitter</a>)
+Huge thanks to <a href="https://twitter.com/transitive_bs">Milo Sedarat</a>
